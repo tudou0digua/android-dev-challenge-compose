@@ -8,7 +8,7 @@
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
 
-Cat list app
+Fake Cat adoption app for AndroidDevChallenge
 
 
 ## :bulb: Motivation and Context
